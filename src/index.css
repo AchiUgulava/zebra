@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Bebas Neue', cursive;
+  background-color: #fdf2f8;
+}
+.logo {
+   font-family: 'Bebas Neue', cursive;
+}
+.heroImg {
+  background-position: 50%;
+  background-image: url("https://scontent.ftbs6-2.fna.fbcdn.net/v/t1.6435-9/61850591_1967212250052083_4866154421169422336_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=6WEbGjHCJl0AX-0O026&_nc_ht=scontent.ftbs6-2.fna&oh=00_AT9ZVISK5_5N8u7iKkZg4WUH6assLLhUngT8zIvnVX-dYw&oe=62D60DF9");
+  height: 500px;
+}
