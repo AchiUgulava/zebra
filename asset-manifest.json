@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AchiUgulava/zebra/static/css/main.9dce0930.css",
+    "main.js": "/AchiUgulava/zebra/static/js/main.7f1043cc.js",
+    "static/media/deliveries.svg": "/AchiUgulava/zebra/static/media/deliveries.2ac4641f490e35027edebf4f0b230c10.svg",
+    "static/media/shopping.svg": "/AchiUgulava/zebra/static/media/shopping.1e6adb31a0a31fdbd2e7b109fef96380.svg",
+    "index.html": "/AchiUgulava/zebra/index.html",
+    "main.9dce0930.css.map": "/AchiUgulava/zebra/static/css/main.9dce0930.css.map",
+    "main.7f1043cc.js.map": "/AchiUgulava/zebra/static/js/main.7f1043cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dce0930.css",
+    "static/js/main.7f1043cc.js"
+  ]
+}
